@@ -7,6 +7,7 @@ This project aims to analyze the likelihood of a Congress Bill to be passed give
 Understanding the increasingly important process of forming regulations and laws in the country, we decided to explore the possibility in determining the likelihood of a proposed bill in being passed by the House. This exercise can be useful for lobbyists, corporations in formulating political strategies, or even the general public during voting periods.
 
 Data cleaning process - [Link](https://github.com/brianmulyadi/Designing-Data-Products/blob/main/dataset.ipynb)
+
 Data analysis process - [Link](https://github.com/brianmulyadi/Designing-Data-Products/blob/main/pass_bill.ipynb)
 
 ### Problem Statement
